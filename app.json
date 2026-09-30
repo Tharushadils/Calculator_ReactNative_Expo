@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "expo-calculator",
+    "slug": "expo-calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#17181F"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#17181F"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4f800fd5-d3d1-48cb-be39-3d30064fe066"
+      }
+    }
+  }
+}
