@@ -15,7 +15,8 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#17181F"
-      }
+      },
+      "package": "com.tharushadils.expocalculator"
     },
     "plugins": [
       "expo-status-bar"
